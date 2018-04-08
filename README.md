@@ -14,7 +14,7 @@ npm run dev
 # build for production with minification
 npm run build
 ```
-
+关于车牌键盘在 /pages/Dispense.vue
 ## Project Structure
 
 * `src/assets` - folder with static assets (images)
