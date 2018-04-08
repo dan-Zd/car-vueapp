@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>icon_parking</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_parking">
+            <rect id="Rectangle-2-Copy" fill="#ADADAD" opacity="0" x="0" y="0" width="16" height="16"></rect>
+            <path d="M3.6587265,2.6028183 C6.00187225,0.259672547 9.80562995,0.264440377 12.1440079,2.6028183 C14.4871536,4.94596405 14.4823858,8.74972175 12.1440079,11.0880997 L7.90136719,15.3307404 L3.6587265,11.0880997 C1.31558075,8.74495392 1.32034858,4.94119622 3.6587265,2.6028183 Z" id="Rectangle-2-Copy" fill="#FFE48D"></path>
+            <rect id="Rectangle-2" fill="#FFFFFF" x="6" y="3" width="1" height="9" rx="0.5"></rect>
+            <path d="M6,3 L9,3 C10.6568542,3 12,4.34651712 12,6 C12,7.65685425 10.6534829,9 9,9 L6,9 L6,3 Z M7,8 L9,8 C10.1025361,8 11,7.10323225 11,6 C11,4.89746386 10.1032323,4 9,4 L7,4 L7,8 Z" id="Rectangle-4" fill="#FFFFFF" fill-rule="nonzero"></path>
+        </g>
+    </g>
+</svg>

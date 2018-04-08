@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>img_fafang</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="8" y="16" width="24" height="16" rx="2"></rect>
+        <rect id="path-2" x="8" y="16" width="8" height="16" rx="2"></rect>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="img_fafang">
+            <rect id="Rectangle-5" fill="#FFF8E2" x="0" y="0" width="40" height="40"></rect>
+            <rect id="Rectangle-5" fill="#FFFFFF" x="2" y="2" width="36" height="36"></rect>
+            <g id="Path">
+                <use fill="#FFE48D" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect stroke="#FFB900" stroke-width="2" x="9" y="17" width="22" height="14" rx="2"></rect>
+            </g>
+            <g id="Path">
+                <use fill="#FFE48D" fill-rule="evenodd" xlink:href="#path-2"></use>
+                <rect stroke="#FFB900" stroke-width="2" x="9" y="17" width="6" height="14" rx="2"></rect>
+            </g>
+            <circle id="Oval-2" fill="#FFE48D" cx="28" cy="15" r="7"></circle>
+            <rect id="Rectangle" fill="#FFB900" x="27" y="13" width="2" height="6" rx="1"></rect>
+            <circle id="Oval-3" fill="#FFB900" cx="19" cy="21" r="1"></circle>
+            <circle id="Oval-3-Copy" fill="#FFB900" cx="23" cy="24" r="1"></circle>
+            <circle id="Oval-3-Copy-2" fill="#FFB900" cx="27" cy="27" r="1"></circle>
+            <path d="M25.3062851,11.9411208 C25.1275651,12.1201759 25.0178223,12.3666437 25.0178223,12.6387272 L25.0178223,16.6571712 C25.0178223,17.196974 25.4655375,17.6479492 26.0178223,17.6479492 C26.5739574,17.6479492 27.0178223,17.2043628 27.0178223,16.6571712 L27.0178223,13.6479492 L30.0270443,13.6479492 C30.5668471,13.6479492 31.0178223,13.200234 31.0178223,12.6479492 C31.0178223,12.091814 30.5742359,11.6479492 30.0270443,11.6479492 L26.0086002,11.6479492 C25.7401973,11.6479492 25.4937554,11.7586386 25.3137931,11.9378347 Z" id="Combined-Shape" fill="#FFB900" transform="translate(28.017822, 14.647949) rotate(-315.000000) translate(-28.017822, -14.647949) "></path>
+        </g>
+    </g>
+</svg>

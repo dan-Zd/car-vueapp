@@ -1,0 +1,51 @@
+
+<svg width="96px" height="96px" viewBox="0 0 96 96" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="30" cy="30" r="30"></circle>
+        <circle id="path-3" cx="30" cy="61.875" r="24.375"></circle>
+        <filter x="-6.2%" y="-6.2%" width="112.3%" height="112.3%" filterUnits="objectBoundingBox" id="filter-4">
+            <feGaussianBlur stdDeviation="2.5" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="1" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 0.89722346   0 0 0 0 0.548137626  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="7.42685746%" y1="8.20749454%" x2="50%" y2="55.2555006%" id="linearGradient-5">
+            <stop stop-color="#F9D76A" offset="0%"></stop>
+            <stop stop-color="#FFC500" offset="100%"></stop>
+        </linearGradient>
+        <path d="M22.5,33.75 C22.5,37.8921356 25.8578644,41.25 30,41.25 C34.1421356,41.25 37.5,37.8921356 37.5,33.75" id="path-6"></path>
+        <filter x="-6.7%" y="-13.3%" width="113.3%" height="126.7%" filterUnits="objectBoundingBox" id="filter-7">
+            <feGaussianBlur stdDeviation="1" in="SourceAlpha" result="shadowBlurInner1"></feGaussianBlur>
+            <feOffset dx="0" dy="0" in="shadowBlurInner1" result="shadowOffsetInner1"></feOffset>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" operator="arithmetic" k2="-1" k3="1" result="shadowInnerInner1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.980392157   0 0 0 0 0.835294118   0 0 0 0 0.356862745  0 0 0 1 0" type="matrix" in="shadowInnerInner1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="视觉稿" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="登录" transform="translate(-140.000000, -96.000000)">
+            <g id="登录框" transform="translate(20.000000, 96.000000)">
+                <g id="img_login_user" transform="translate(120.000000, 0.000000)">
+                    <circle id="Oval-4" fill="#FFFFFF" opacity="0.200000003" cx="48" cy="48" r="48"></circle>
+                    <circle id="Oval-4" fill="#FFFFFF" opacity="0.200000003" cx="48" cy="48" r="38"></circle>
+                    <g id="img_user" stroke-width="1" transform="translate(18.000000, 18.000000)">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                        <g id="Oval-3-Copy" mask="url(#mask-2)">
+                            <use fill="#FAE9B3" fill-rule="evenodd" xlink:href="#path-3"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-4)" xlink:href="#path-3"></use>
+                        </g>
+                        <circle id="Oval-3" fill="url(#linearGradient-5)" mask="url(#mask-2)" cx="30" cy="30" r="15"></circle>
+                        <g id="Oval-2" mask="url(#mask-2)">
+                            <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-6"></use>
+                            <use fill="black" fill-opacity="1" filter="url(#filter-7)" xlink:href="#path-6"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
